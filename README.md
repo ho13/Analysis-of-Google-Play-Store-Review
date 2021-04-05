@@ -1,1 +1,2 @@
 # Analysis-of-Google-Play-Store-Review
+We extract the customer review data of 11 British bank apps from the Google Play store. We use sentiment analysis to classify feedback into positives and negatives, and then identify main topics of reviews, especially negative ones, to better understand customers’ complaints. By recognizing the most frequently mentioned issues, the app developers are able to prioritize the problems to be solved by urgency and importance, dealing with app issues more effectively to meet customers’ needs.  
